@@ -1,13 +1,9 @@
-package com.imooc.mall.pojo;
+package com.mhan.mall.pojo;
+
 
 import lombok.Data;
 
 import java.util.Date;
-
-/**
- * po(persistent object)
- * pojo(plian ordinary java object)
- */
 @Data
 public class Category {
     private Integer id;
