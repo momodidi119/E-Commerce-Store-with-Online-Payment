@@ -23,5 +23,5 @@ Functions
 -------------
 ### Payment Samples:
 Payment by Wechat
-
+![github](http://github.com/unicorn.png"github")
 Payment by Ali
