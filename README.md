@@ -22,7 +22,7 @@ rabbitmq 3.8.1
 Functions
 -------------
 ### Payment Samples:
-Payment by Wechat
+###### Payment by Wechat
 ![github](https://github.com/momodidi119/E-Commerce-Store-with-Online-Payment/blob/master/img/wechat.png)
-Payment by Ali
+###### Payment by Ali
 ![github](https://github.com/momodidi119/E-Commerce-Store-with-Online-Payment/blob/master/img/ali.png)
