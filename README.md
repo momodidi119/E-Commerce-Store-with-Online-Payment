@@ -23,5 +23,6 @@ Functions
 -------------
 ### Payment Samples:
 Payment by Wechat
-![github](http://github.com/unicorn.png"github")
+![github](https://github.com/momodidi119/E-Commerce-Store-with-Online-Payment/blob/master/img/wechat.png)
 Payment by Ali
+![github](https://github.com/momodidi119/E-Commerce-Store-with-Online-Payment/blob/master/img/ali.png)
